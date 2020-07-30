@@ -1,4 +1,4 @@
-# Facial_Expression_Recognition
+# Facial Expression Recognition using CNN and tf.keras
 
 Flask web app to recognise facial expression using CNN architecture. Inspired by _Challenges in Representation Learning: A report on three machine learning contests_ by Ian J. Goodfellow et al.
 
