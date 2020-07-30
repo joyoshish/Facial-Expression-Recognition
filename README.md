@@ -2,7 +2,7 @@
 
 Flask web app to recognise facial expression using CNN architecture. Inspired by _Challenges in Representation Learning: A report on three machine learning contests_ by Ian J. Goodfellow et al.
 
-[](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
+[Challenges in Representation Learning](https://link.springer.com/chapter/10.1007/978-3-642-42051-1_16)
 
 
 *__Sample animation on facial recognition__*
