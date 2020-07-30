@@ -5,8 +5,6 @@ Flask web app to recognise facial expression using CNN architecture. Inspired by
 [Challenges in Representation Learning](https://link.springer.com/chapter/10.1007/978-3-642-42051-1_16)
 
 
-*__Sample animation on facial recognition__*
-
 <p align="center">
   <img src="https://github.com/Joyoshish/Facial_Expression_Recognition/blob/master/sample.gif">
 </p>
